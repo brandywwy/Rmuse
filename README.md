@@ -14,13 +14,7 @@ The Rmuse package provides several R functionalities for interacting with their 
 
 ## Installation and Setup
 
-You can install the latest version from CRAN as follow:
-
-```r
-install.packages('Rmuse')
-```
-
-Alternatively, if you've installed the devtools package, you can install the latest development version directly from Github.
+If you've installed the devtools package, you can install the latest development version directly from Github.
 
 ```r
 devtools::install_github('brandywwy/Rmuse')
