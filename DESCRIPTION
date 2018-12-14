@@ -1,0 +1,25 @@
+Package: Rmuse
+Type: Package
+Title: R Interface to THE MUSE API
+Version: 0.1.0
+Author: Wanying Wang <wanying.w@columbia.edu>
+Maintainer: Wanying Wang <wanying.w@columbia.edu>
+Description: THE MUSE is a New York City-based online career source founded in 2011.
+	It aims to offer job listings, company profiles, expert advice, skills-building 	resources, and coaching services to the millions of candidates using the platform.
+	The Rmuse package provides several R functionalities for interacting with their
+        API service, making it easy to make API calls and process the response into
+        convenient, R-friendly data structures.
+        See <https://www.themuse.com/developers/api/v2> for the MUSE API Documentation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+	httr,
+	jsonlite,
+	dplyr
+Suggests:
+	knitr,
+	testthat,
+    rmarkdown
+RoxygenNote: 6.1.0
+VignetteBuilder: knitr
