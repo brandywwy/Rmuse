@@ -74,3 +74,5 @@ As mentioned above, if you pass improper arguments to the function, it may retur
 
 __Have fun playing with MUSE API and hope this package can help you in some way!__
 
+__Sincerely welcome any advice and suggestions!  : )__
+
