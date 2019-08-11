@@ -1,12 +1,3 @@
----
-title: "README"
-author: "Wanying Wang"
-date: "12/9/2018"
-output:
-  html_document:
-    keep_md: yes
----
-
 # Rmuse
 
 THE MUSE is a  New York City-based online career source founded in 2011. It aims to offer job listings, company profiles, expert advice, skills-building 	resources, and coaching services to the millions of candidates using the platform.
